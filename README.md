@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm a freelance desktop application developer.</div>  
+### <div align="center">I'm a self-taught freelance desktop application developer.</div>  
   
 
 - 🌱 I’m currently learning Tauri, Rust and Vue  
