@@ -6,7 +6,7 @@
 ### <div align="center">I'm a self-taught freelance desktop application developer.</div>  
   
 
-- 🌱 I’m currently learning Tauri, Rust and Vue  
+- 🌱 I’m currently learning Go and Rust  
   
 
 - ❓ Ask me about anything related to Electron  
