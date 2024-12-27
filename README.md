@@ -71,16 +71,6 @@
 <br/>  
 
 
-
-### I'm currently listening  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=m8bw7x62magvw4043qyst5c5g&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
   
 
 <br/>  
